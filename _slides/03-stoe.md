@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our slide deck, it's awesome!"
 ---
 
 👋 I'm [@stoe](https://github.com/stoe)
